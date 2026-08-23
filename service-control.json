@@ -1,5 +1,6 @@
 {
-  "service_enabled": true,
+  "service_enabled": false
+,
   "minimum_version": "2.6.4",
   "force_update": false,
   "message": "",
