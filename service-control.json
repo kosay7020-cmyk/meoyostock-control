@@ -1,7 +1,7 @@
 {
-  "service_enabled": false,
+  "service_enabled": true,
   "minimum_version": "2.6.4",
   "force_update": false,
-  "message": "MeoYoStock 원격 차단 테스트 성공",
+  "message": "",
   "update_url": ""
 }
