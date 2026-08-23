@@ -1,7 +1,7 @@
 {
-  "service_enabled": false,
+  "service_enabled": ture,
   "minimum_version": "2.6.4",
   "force_update": false,
-  "message": "메롱",
+  "message": "",
   "update_url": ""
 }
